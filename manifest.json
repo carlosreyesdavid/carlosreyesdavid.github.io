@@ -1,0 +1,22 @@
+{
+    "name": "Angular PWA ",
+    "description": "Sample PWA App",
+    "short_name": "Angular PWA",
+    "start_url": "localhost:4200",
+    "display": "standadole",
+    "theme_color": "transparent",
+    "orientation": "landscape",
+    "background_color": "transparent",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "sizes": "16x16 32x32"
+      },
+      {
+        "src": "/assets/images/icons/icon-16x16.png",
+        "sizes": "16x16 32x32",
+        "type": "image/png",
+        "density": "0.75"
+      }
+    ]
+}
